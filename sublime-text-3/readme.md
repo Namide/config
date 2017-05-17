@@ -19,7 +19,7 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 - TernJS
 
 - Material Theme
-- Monokai Extended
+- MarkdownHighlighting
 - OpenGL Shading Language (GLSL)
 
 - Open Folder
